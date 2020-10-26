@@ -9,3 +9,10 @@ No matter what, ***LOVE*** is the most powerful drive to lift us up, ***CREATE**
 ## My Dream
 
 I'm chasing the ***Sailing*** dream, the ***Ocean*** dream, the ***dancing with the star & flowing with the wind*** dream.
+
+
+## Some uncategorised Quotes
+
+> Adventure is the respectful pursuit of trouble.
+
+> Adventure is the disaster that hasn't happened yet.
