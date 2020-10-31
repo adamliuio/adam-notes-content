@@ -2,6 +2,8 @@
 title: Steps To Reach YOUR FINANCIAL FREEDOM
 ---
 
+You can watch this video [On YouTube](https://youtu.be/myNIQQBPBkQ).
+
 [[Steps To Reach YOUR FINANCIAL FREEDOM Chinese Version]]
 
 If someone points a gun at you and asks you "***Your Money Or Your Life?***", what would you do? Most of us would give our wallets, of course our lives are more valuable, no brainer.

@@ -2,7 +2,9 @@
 title: 掌控自己的金钱，实现财务自由的阶梯
 ---
 
-英文版链接：[[Steps To Reach YOUR FINANCIAL FREEDOM]]
+视频链接如下：[YouTube](https://youtu.be/wRsBquVuSgM)
+
+英文版原稿链接：[[Steps To Reach YOUR FINANCIAL FREEDOM]]
 
 要是有人拿枪指着你，问你说：“要钱还是要命？”，你会怎么做？大多数人都会把钱包给他，命当然比钱重要，还需要问吗？
 
