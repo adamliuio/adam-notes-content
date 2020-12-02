@@ -4,6 +4,8 @@ title: Thoughts
 
 This is My Thoughts.
 
+I think a lot about [[The Future Of My Life]], and when you think of this, it's hard not to think of the future of the world.
+
 It's funny that as human beings, we always underestimate the complexity of the world, as well as our own thoughts, these intangible things stored in our brains.
 
 That's why the traditional way of note taking, or writing, is not good enough for recording our thoughts, no matter how well organised the documents are.
