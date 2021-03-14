@@ -6,13 +6,15 @@ title: My Beliefs
 
 No matter what, ***LOVE*** is the most powerful drive to lift us up, ***CREATE*** is the only way to build a better future, and only when you've ***EXPERIENCE***d enough, you'd be able to appreciate how beautiful the world is, and understand why we should do our best to protect the good, and fight the evil.
 
-## My Dream
+## My Rules
 
-I'm chasing the ***Sailing*** dream, the ***Ocean*** dream, the ***dancing with the star & flowing with the wind*** dream.
+My way of respecting people is by:
+
+1. Saying what I really think
+2. Trying my best to be most efficient so that I don't waste anyone's time, as well as my own time.
+3. Trying my best to help people achieve great things. I really believe that [[the power game is stupid]], we should play more innovation game.
 
 
 ## Some uncategorised Quotes
 
-> Adventure is the respectful pursuit of trouble.
-
-> Adventure is the disaster that hasn't happened yet.
+> Adventure is the respectful pursuit of trouble, as well as the disaster that hasn't happened yet.
