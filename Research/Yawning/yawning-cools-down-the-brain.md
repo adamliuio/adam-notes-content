@@ -2,6 +2,8 @@
 title: Yawning Cools Down The Brain
 ---
 
+**Cooling of the brain boosts its performance**, so contagious yawning may be an evolutionary trait meant to improve overall alertness in groups of people and animals.
+
 [[Reducing Temperature Can Help Stopping Yawning]], but yawning helps us cooling the brain. Slightly cooling down the brain might make us more alert – waking us up when we are bored and distracted.
 
 [Research](https://www.frontiersin.org/articles/10.3389/fnins.2012.00188/full) in 2013 found that there are **3 main processes** have been described for how yawning could cool brain temperature in mammals and birds. Below we apply them specifically to humans.
