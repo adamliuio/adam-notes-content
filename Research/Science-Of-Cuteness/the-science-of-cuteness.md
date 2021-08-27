@@ -1,6 +1,6 @@
 ---
 title: The Science of Cuteness
-----
+---
 
 ***Cuteness* describes a type of attractiveness commonly associated with youth and appearance, that makes a creature appear "cute" and activate ("release") in others the motivation to care for it.** Biologist Konard Lorenz researched the "Baby Schema" ("Kindchenschema").
 

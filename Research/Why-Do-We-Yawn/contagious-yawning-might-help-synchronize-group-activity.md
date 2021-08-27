@@ -15,4 +15,3 @@ Instead of what we generally think of yawning is about, the contagious nature of
 [[Contagious Yawning]] may be a way for animals who live together to coordinate activities. Since dogs and humans have been living together for between 14,000 and 30,000 years, contagious yawning may be deeply rooted in canine evolutionary history. Dogs’ longstanding relationships with us may have enabled them to reach across species lines to feel what we’re feeling.
 
 Some researchers have wondered if contagious yawning might be a primitive form of communication – if so, what information is it transmitting? Christian Hess (at the University of Bern in Switzerland) believes that the signalling role of yawning is to help to synchronize the behaviour of a social group – to make them go to sleep more or less at the same time. With the same routine, a group can then work together more efficiently throughout the day.
-

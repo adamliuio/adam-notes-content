@@ -23,6 +23,6 @@ In addition, children under the age of 4 (their ability for empathy haven't full
 
 More on that, [[contagious yawning is linked to psychopathy]], meaning that **psychopaths aren't so susceptible to *contagious yawning*.**
 
-**Conclusion**
+## Conclusion
 
 The contagiousness of yawning, and vocalizations like laughter & crying may either tap a primitive neurological substrate for social behavior or be confined to that specific behavior and not reflect a more general social process, we still don't know. *Judgment about contagiousness as evidence for a trait of sociality must, then, await further research.*

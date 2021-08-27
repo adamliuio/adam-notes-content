@@ -17,4 +17,4 @@ We find animals cute when they share the same traits as human babies, and human 
 
 **The greater the number of cute features that an animal or object happens to possess, or the more exaggerated the signals may be, the louder and more italicized are the squeals provoked.**
 
-We find animals cute when they share the same traits, and human nurturing instinct programs us to take cure of anything that looks baby-like, this even works for inanimate objects
+We find animals cute when they share the same traits, and human nurturing instinct programs us to take cure of anything that looks baby-like, this even works for inanimate objects.

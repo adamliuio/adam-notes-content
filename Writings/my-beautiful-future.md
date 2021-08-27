@@ -67,6 +67,6 @@ Ok, I actually know. **I'll become a sailor and I'll start living on a bluewater
 
 Let's revisit this post and see how far I've gone by the end of 2021!
 
-![Lost at Sea by <a href="https://unsplash.com/photos/SLf9CvojiPo" target="_blank">@lance_asper</a>](https://images.unsplash.com/photo-1480742444427-f4bb0573e315?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1491&q=80)
+![Lost at Sea](https://source.unsplash.com/SLf9CvojiPo/1600x900)
 
 ***2020-09-02***

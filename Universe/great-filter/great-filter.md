@@ -18,7 +18,7 @@ Or maybe [[Great Filter Theory: We Are Yet To Extinct]].
 
 1. We’re Fucked (The Great Filter is Ahead of Us)
 
-We're fucked
+We're fucked.
 
 If we’re neither rare nor early, Group 1 thinkers conclude that The Great Filter must be in our future. This would suggest that life regularly evolves to where we are, but that something prevents life from going much further and reaching high intelligence in almost all cases—and we’re unlikely to be an exception.
 

@@ -15,6 +15,7 @@ When we yawn out of our own reasons, like tiredness & boredom, it's called *spon
 Yawning is multifactorial. It could be partly an innate form of communication or it could be related to empathy, or a bit of both combined with other factors.
 
 [[Yawning Keeps Us Alerted]], this can explain why [[Yawning Is Common Amongst Animals]]. But in the human world, [[Yawning Is Socially Considered Inappropriate]], because of the fact that boredom can trigger us to yawn, and nobody wants to know they are boring.
+
 ### Reasons That Cause Us Yawn
 
 - Yawning is a way our bodies regulate brain temperature: [[Yawning Cools Down The Brain]].
