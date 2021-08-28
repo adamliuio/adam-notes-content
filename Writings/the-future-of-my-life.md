@@ -1,5 +1,6 @@
 ---
-title: The Future Of My Life
+title: "The Future Of My Life"
+author: Adam Liu
 ---
 
 As I'm writing this (20201202), I've been back in China from Australia for 2 years already.
