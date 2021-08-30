@@ -47,4 +47,4 @@ The writing on the boat life: [[Why The Boat Life Is My Ultimate Goal?]]
 
 I'll write about my boat life plan later someday, I'm tired of writing now. Going out for some polluted & dusty "fresh air".
 
-20201202
+2020-12-02

@@ -1,5 +1,5 @@
 ---
-title: "The industrialised humans"
+title: "The Industrialised Humans"
 author: Adam Liu
 ---
 
