@@ -1,9 +1,10 @@
 ---
 title: "My Beautiful Future"
-author: Adam Liu
+date: 2020-09-02
+image: "https://source.unsplash.com/wzMmbkC5sD0/1600x900"
 ---
 
-> <Highlight>What would my future be like? Where would I be? What would I be doing?</Highlight>
+> What would my future be like? Where would I be? What would I be doing?
 
 It's Sep. 2020. I'm 1 month away from my 30th birthday, and I'm still asking myself this question.
 
@@ -68,5 +69,3 @@ Ok, I actually know. **I'll become a sailor and I'll start living on a bluewater
 Let's revisit this post and see how far I've gone by the end of 2021!
 
 ![Lost at Sea](https://source.unsplash.com/SLf9CvojiPo/1600x900)
-
-***2020-09-02***

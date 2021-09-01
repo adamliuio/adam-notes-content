@@ -1,5 +1,5 @@
 ---
-title: The Wealthy Mind
+title: "The Wealthy Mind"
 ---
 
 The wealthy mind is very different from the working mind. And here's a list of the differences.

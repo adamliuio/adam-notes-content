@@ -1,6 +1,5 @@
 ---
 title: "We Are Working Way Too Much"
-author: Adam Liu
 ---
 
 As humans, we simply work too much. In my opinion, most people have become the [[The industrialised humans]]. Most of us work like machines and this way of working has been widely accepted as a social norm. Because the societies around the globe have been measuring the quality of the livelihood by GDP for decades, productivity has become the one thing different countries and cities chase after.

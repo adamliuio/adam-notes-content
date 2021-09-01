@@ -1,5 +1,5 @@
 ---
-title: The Pursuit Of Money
+title: "The Pursuit Of Money"
 ---
 
 ## Never Chase After Money

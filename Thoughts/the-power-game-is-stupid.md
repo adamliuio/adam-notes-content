@@ -1,5 +1,6 @@
 ---
-title: The Power Game Is Stupid
+title: "The Power Game Is Stupid"
+date: 2021-03-14
 ---
 
 I love the show *Billions*, the story is so great that I binge watched pretty much every season.
@@ -37,5 +38,3 @@ Just to use these 2 as an example, without their journey of starting companies, 
 We'd be better off with less people playing the power game, but shift their focus on innovating, and competing by doing things differently. Of course people will always play the power game, but if you want to expand the horizon of your life, your mind, and your spirit, you won't get there by bringing other people down, because the power game by its nature is extremely limited, just like all sports. But the world is so big beyond most people's comprehension, and we still know very little of the universe, and we don't really know what we don't know, it's really is much better to be creating than competing.
 
 Another very good example that proves the fact the Creation Game is much better than the Power game, is the very creator of the show *Billions*, *Brian Koppelman*, didn't succeed by bringing someone else down, but rather, by creating the show. Even tho he struggled, but he still [chose to create](https://twitter.com/briankoppelman/status/1036918178973188096) and provide value instead of compete and destroy value.
-
-20210314

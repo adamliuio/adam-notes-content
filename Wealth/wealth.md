@@ -1,5 +1,5 @@
 ---
-title: Wealth
+title: "Wealth"
 ---
 
 Wealth is *extremely* important, and not very well understood. And in my opinion, it's something we all should strive for.

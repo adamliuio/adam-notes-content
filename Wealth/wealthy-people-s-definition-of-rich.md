@@ -1,5 +1,5 @@
 ---
-title: Wealthy People's Definition of Rich
+title: "Wealthy People's Definition of Rich"
 ---
 
 ![wealth-measured-by-cash-in-hand](https://user-images.githubusercontent.com/9758779/93158783-6fdd5d00-f73f-11ea-9514-2767d8194fbb.png)

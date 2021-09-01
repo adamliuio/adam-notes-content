@@ -1,9 +1,9 @@
 ---
 title: "The Future Of My Life"
-author: Adam Liu
+date: 2020-12-02
 ---
 
-As I'm writing this (20201202), I've been back in China from Australia for 2 years already.
+As I'm writing this (2nd of Dec, 2020), I've been back in China from Australia for 2 years already.
 
 My view on the future of my life has changed from what I wanted when I was back in Australia, where I spent almost 4 years there, the part of the world I'd loved every single second I spent in.
 
@@ -46,5 +46,3 @@ While I was getting to know more about digital nomading while staying in China, 
 The writing on the boat life: [[Why The Boat Life Is My Ultimate Goal?]]
 
 I'll write about my boat life plan later someday, I'm tired of writing now. Going out for some polluted & dusty "fresh air".
-
-2020-12-02

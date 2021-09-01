@@ -1,8 +1,10 @@
 ---
 title: Mission
+description: "The more I think about it, the more I feel the earth is Fucked."
+date: 2020-12-07
 ---
 
-# The more I think about it, the more I feel the earth is Fucked.
+**The more I think about it, the more I feel the earth is Fucked.**
 
 Climate change, plastic overuse, massive industrial pollution... I don't think I need to keep listing, and just do a bit of Googling you'll find the stats to support these claims.
 
@@ -17,5 +19,3 @@ My Mission has 3 parts, they are intertwined with each other, and that's the pur
 1. I want to have a boat life, and explore the ocean and remote places.
 2. I want to build *businesses* with great impacts and good intentions, being extremely conscious about the values as well as the environmental & social cost.
 3. And show people great stories can really change lives.
-
-20201207

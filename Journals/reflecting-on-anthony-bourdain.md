@@ -1,9 +1,8 @@
 ---
 title: "Reflecting On Anthony Bourdain"
-author: Adam Liu
+date: 2021-08-30
+image: https://user-images.githubusercontent.com/9758779/131287882-8a2623d6-ba6f-49fe-a7a8-5741677487a5.png
 ---
-
-![Anthony Bourdain mural](https://user-images.githubusercontent.com/9758779/131287882-8a2623d6-ba6f-49fe-a7a8-5741677487a5.png)
 
 I just watched the Tony Bourdain documentary: [Roadrunner: A Film About Anthony Bourdain](https://en.wikipedia.org/wiki/Roadrunner:_A_Film_About_Anthony_Bourdain) yesterday. It's great. It's emotional. And it makes you sad.
 
@@ -52,5 +51,3 @@ But what does *surviving* mean anyways? Don't we all die in the end?
 Maybe this would be the fate of all humans for the rest of humanity, maybe this has been the fate of all humans since we've become intelligent. Just like what the Eagles sang:
 
 > You can check out any time you like, but you can never leave!
-
-2021-08-30

@@ -1,11 +1,10 @@
 ---
 title: "Why The Boat Life Is My Ultimate Goal?"
-author: Adam Liu
+date: 2021-08-27
+image: https://source.unsplash.com/DKix6Un55mw/1600x900
 ---
 
 > We are all wanderers, and we are all survivors.
-
-![image](https://source.unsplash.com/DKix6Un55mw/1600x900)
 
 We are all trying to build a better future for ourselves. We go to school, go to college, get jobs to make a living, try to get promoted, fall in love with the people that we think is right for us, give birth to babies to carry our hopes and dreams and love, and we do our best to provide everything for them.
 
@@ -53,5 +52,3 @@ Of course nothing is perfect in this world, so the boat life also has many *con*
 I still have a long way to go, but I do believe this long road can be finished sooner if I run faster, which means I need to work harder & smarter.
 
 > No time to waste, *Godspeed*.
-
-2021-08-27

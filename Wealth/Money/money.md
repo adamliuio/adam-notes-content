@@ -1,5 +1,5 @@
 ---
-title: Money
+title: "Money"
 ---
 
 Money has many faces. It is **Power**. It's **Energy**. And [[Money Is The Glue of Society]].

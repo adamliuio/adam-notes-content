@@ -1,5 +1,5 @@
 ---
-title: Think Like Predators
+title: "Think Like Predators"
 ---
 
 If you watch any wildlife documentary, it's common that most predetors are not on the hunt all the time, let it be lions, tigers, eagles, sharks, etc. **Most of the time, they are resting, and playing around**.
@@ -16,8 +16,8 @@ Because when the rich work, they invest, build businesses, capitalise on opportu
 
 People who are rich, or well off, commonly share an image of comfortable lives, they may be hard working, but they rarely do hard labouring. While the rich normally scoop big profits, lots of people who work hard on their jobs can barely make their ends meet.
 
-> [[Money]] is energy, it flows, it represents the value someone/something represents/delivers. And the human world functions through value exchange, not labour exchange. While labouring is the easiest to see.
+> is energy, it flows, it represents the value someone/something represents/delivers. And the human world functions through value exchange, not labour exchange. While labouring is the easiest to see.
 
 **"Hard work" has been blindly praised upon**, people tend to look at how many hours & how much efforts someone puts into what they do, but **the value people provide through their work has been silently ignored by the majority, while *value* is what really differentiates the reward**. That's why whenever the inequality in societies is discussed, how hard people are working is often used in discussions, but the value people provide is rarely mentioned.
 
-If you understand this analogy, then you should [[Work Like Lions, Not Like Cows]].
+If you understand this analogy, then you shoul

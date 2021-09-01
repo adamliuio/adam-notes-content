@@ -1,5 +1,5 @@
 ---
-title: Money Is The Glue of Society
+title: "Money Is The Glue of Society"
 ---
 
 The human world has become so specific. People are customed to choose one thing as their main focus in life and call it career, and we rarely produce anything else outside our career. Then how is it possible that we can have many things in life beside what we produce?

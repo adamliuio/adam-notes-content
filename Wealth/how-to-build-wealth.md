@@ -1,5 +1,5 @@
 ---
-title: How To Build Wealth
+title: "How To Build Wealth"
 ---
 
 ## Wealth is The Abundance of Value

@@ -1,5 +1,5 @@
 ---
-title: Save Money
+title: "Save Money"
 ---
 
 Saving money doesn't make you a loser, but rather, it prepares you for unforeseen events in the future that require money to deal with.

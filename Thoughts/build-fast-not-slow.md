@@ -1,5 +1,5 @@
 ---
-title: Build Fast, Not Slow
+title: "Build Fast, Not Slow"
 ---
 
 > <Highlight>Be Impatient With Actions, Be Patience With The Results.</Highlight>

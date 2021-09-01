@@ -1,5 +1,5 @@
 ---
-title: Compound Interest
+title: "Compound Interest"
 ---
 
 Compounding is easy to understand, but easy to underestimate & forget about as well, because it’s not intuitive, even for smart people. Michael Batnick once explained it: 

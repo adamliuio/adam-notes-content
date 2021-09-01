@@ -12,5 +12,4 @@ And a human brain is just as complicated (or you can call it "messy"), but someh
 
 And that's why, **this network of thoughts is better in a sense, people can follow the directions they want, and engage with whatever information their curiosity takes them**. At the end of the day, after reading well structured articles & books, we still don't remember the information in the sequence the books & articles presented, rather, scattered and linked in a new form.
 
-
 I love this idea of having my thoughts connected like nodes on a web, instead of having to be formatted in article format. But just like everything else, I don't believe this is the best solution, but I'll definitely update it along the way to. Let's see what this would evolve into after some years.

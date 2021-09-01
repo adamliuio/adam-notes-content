@@ -1,6 +1,6 @@
 ---
 title: "The Industrialised Humans"
-author: Adam Liu
+date: 2021-08-28
 ---
 
 I've always found it weird that how much of our identities are defined by what we do. And this phenomenon has extended beyond workplaces. Imagine a casual convo at a party when one meets new people:
@@ -23,5 +23,3 @@ At the end of the day, today's battle for most people (in most developed & devel
 > The ever-increasing complexity of today's world requires one to absorb & process much more information than most humans in previous generations, and this is extremely hard work.
 
 The willingness to do the hard work in a smart way, if the ultimate differentiator of humans.
-
-20210828

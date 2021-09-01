@@ -1,5 +1,5 @@
 ---
-title: Work Like Lions, Not Like Gazelles
+title: "Work Like Lions, Not Like Gazelles"
 ---
 
 This idea is closely related to [[Think Like Predators]], and it's the opposite to the widely accepted social norm: [[We Are Working Way Too Much]].
