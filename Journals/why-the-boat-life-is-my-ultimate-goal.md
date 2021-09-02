@@ -1,6 +1,7 @@
 ---
 title: "Why The Boat Life Is My Ultimate Goal?"
 date: 2021-08-27
+description: "The reason why I choose to live on a boat for the rest of my life, instead of living in a house."
 image: https://source.unsplash.com/DKix6Un55mw/1600x900
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Journals
+description: "Adam Liu's journals on life, technology, humanity, and philosophies."
 ---
 
 - What I think about [[My Beautiful Future]] <sub>2020-09-02</sub>.

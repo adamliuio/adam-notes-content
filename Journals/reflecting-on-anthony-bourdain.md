@@ -1,10 +1,11 @@
 ---
 title: "Reflecting On Anthony Bourdain"
 date: 2021-08-30
+description: "Live dumb and happy, or live educated and disappointed. Maybe in life you just have to choose one from these two."
 image: https://user-images.githubusercontent.com/9758779/131287882-8a2623d6-ba6f-49fe-a7a8-5741677487a5.png
 ---
 
-I just watched the Tony Bourdain documentary: [Roadrunner: A Film About Anthony Bourdain](https://en.wikipedia.org/wiki/Roadrunner:_A_Film_About_Anthony_Bourdain) yesterday. It's great. It's emotional. And it makes you sad.
+I just watched the Tony Bourdain documentary [Roadrunner: A Film About Anthony Bourdain](https://en.wikipedia.org/wiki/Roadrunner:_A_Film_About_Anthony_Bourdain) yesterday. It's great. It's emotional. And it makes you sad.
 
 It made me miss this guy who I didn't even watch any of his shows when he was alive.
 
@@ -12,15 +13,17 @@ Before watching it, I just finished binge watching [Anthony Bourdain: Parts Unkn
 
 # Getting to know Tony through the screen
 
-I've always known about Tony, this famous chef who was making travel documentaries. And I saw the news when he died, I was wondering why so many people were sad about his death, "he's just a famous TV personality, right?" And didn't pay much attention. My opinion of him changed after I watched couple of episodes of Parts Unknown season 1, I was attracted, amazed, blown away.
+I've always known about Tony, a famous chef who was making travel documentaries. And I saw the headlines when he died, I was wondering why so many people were sad about his death, "he's just a famous TV personality, right?" And I didn't pay much attention. My opinion of him changed after I watched couple of episodes of Parts Unknown season 1, I was attracted, amazed, blown away.
 
-When pretty much all the travel content you can find easily these days is Youtubers exaggerating to camera how "amazing" a place is and have nothing to say to the camera beside how good is the food and what it tastes like, Tony has set an extremely high bar, that nobody has come above, and in my opinion, nobody will be able to reach that level for a long time.
+We live in a time that pretty much all the travel content you can find is Youtubers exaggerating to camera how "amazing" a place is and have nothing to say to the camera beside repeating how good the food is and describing what it tastes like, but at the same time Tony has set an extremely high bar, and nobody that I'm aware of has reached or even gone beyond his level, and in my opinion, nobody will be able to reach that level for a long time.
 
-In 2021, we live in a world of struggle, with all these advanced tech around us, we are spiritually poor. Tony is a saint, in a soulless world; he's also a poet, outrageous, wild, straightforward, yet beautiful. During the time of watching his show, I gradually started to understand the sadness the world experienced upon the death of this "just a famous TV personality".
+In 2021, we live in a world of struggles, with all these advanced tech around us, we are spiritually poor. Tony was a saint, in a soulless world; he's also a poet, outrageous, wild, straightforward, yet beautiful. During the time of watching his show, I gradually started to understand the sadness the world experienced upon the death of this "just a famous TV personality".
 
 # Intuition
 
-I've always believed in some kind of intuition, in a way that I can't even describe. I experienced it with my friend Giuseppe when I was in Melbourne, Australia, we hang out a lot, and many times when we got together, he would mention something he was thinking about in the past couple of days, and it was exactly the thing I was pondering on as well. We always talk about a wide range of topics, so when this pattern happens again and again, you feel weird, it makes you think that there's definitely some kind of mysterious links between humans, and there's definitely some kind of mysterious force that's invisible to us and we don't understand but influences the world.
+I've always believed in some kind of intuition, in a way that I can't even describe. I experienced it with my friend Giuseppe when I was back in Melbourne, Australia. We hang out a lot, and many times when we got together, he would mention something he was thinking about in the past couple of days, and it was exactly the thing I was pondering on as well. We always talk about a wide range of topics, so when this pattern happens again and again, you feel weird, it makes you think that there's definitely some kind of mysterious links between humans, and there's definitely some kind of mysterious force that's invisible to us and we don't understand but influences the world.
+
+Or it's just my brain conspiracies, I'm just making shit up.
 
 When watching Parts Unknown, the same thing happened.
 
@@ -46,7 +49,7 @@ He was creative, he was extending himself into his shows. But all he relied upon
 
 But what does *surviving* mean anyways? Don't we all die in the end?
 
-***Live dumb and happy. Or live educated and disappointed.*** You have to choose one from these two.
+***Live dumb and happy, or live educated and disappointed.*** Maybe in life you just have to choose one from these two.
 
 Maybe this would be the fate of all humans for the rest of humanity, maybe this has been the fate of all humans since we've become intelligent. Just like what the Eagles sang:
 

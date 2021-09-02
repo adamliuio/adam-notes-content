@@ -1,6 +1,7 @@
 ---
 title: "My Beautiful Future"
 date: 2020-09-02
+description: "Is life really about taking the safest & predefined route?"
 image: "https://source.unsplash.com/wzMmbkC5sD0/1600x900"
 ---
 

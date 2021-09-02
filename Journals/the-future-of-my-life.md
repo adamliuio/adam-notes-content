@@ -1,5 +1,6 @@
 ---
 title: "The Future Of My Life"
+description: "Finding out what is the best lifestyle for me in the future."
 date: 2020-12-02
 ---
 
