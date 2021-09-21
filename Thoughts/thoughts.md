@@ -4,6 +4,7 @@ title: "Thoughts"
 
 This is My Thoughts.
 
+- [[Our Animal Nature]]
 - [[Build Fast, Not Slow]]
 - [[Compound Interest]]
 - [[Ideas And Execution]]
