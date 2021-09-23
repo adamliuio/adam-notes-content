@@ -5,7 +5,7 @@ image: "https://source.unsplash.com/-BcnpZHZJx4/1600x900"
 date: 2020-09-13
 ---
 
-<sub>* It's better to view this site on desktop, because with every inter-page you click on, you create a sequence of pages, in some ways, this sequence can be your own unique experience of reading my blog. ;)</sub>
+<sub>* It's better to view this site on desktop, because with every <i>link in bracket</i> you click on, you create a sequence of pages, in some ways, this sequence can be your own unique experience of reading my thoughts (my <a href="https://adamliu.io/blog">blog</a> is here if you prefer the traditional way of reading). ;)</sub>
 
 I'm Adam, I'm on a [[Mission]], and this is a representation of part of my mind. And I think through them, you can find all these scattered thoughts representing [[My Beliefs]] one way or another.
 
@@ -15,7 +15,7 @@ Traditionally, information is categorized into different parts & categories like
 
 But here's the thing, you can't really categorize things perfectly, because in our world (or in higher dimensional worlds), things interconnect, categorizing one thing into a category is unfairly ripping certain identities off them, and this would limit our understanding of them, which would limit our understanding of the world.
 
-That's why things here are not artificially organized like traditional articles/books (doesn't mean I don't have [Journals](/blog/journals)), but rather, they are linked, so you can follow any direction you want, and navigate through the Knowledge Base I have. Which means, the way you follow the links is just like you're walking around in my mental jungle, while these are my thoughts, but you might be the first one to go down a route that nobody has followed before (including me). And I believe this way of presenting my brain is way better than other methods ([[Why "My Brain" Is The Best Option I've Found So Far]]).
+That's why things here are not artificially organized like traditional articles/books (doesn't mean I don't have [Journals](https://adamliu.io/blog/journals)), but rather, they are linked, so you can follow any direction you want, and navigate through the Knowledge Base I have. Which means, the way you follow the links is just like you're walking around in my mental jungle, while these are my thoughts, but you might be the first one to go down a route that nobody has followed before (including me). And I believe this way of presenting my brain is way better than other methods ([[Why "My Brain" Is The Best Option I've Found So Far]]).
 
 ... And more will be added, and lots of things here are constantly updated. If you see something that you think is not correct or incomplete, you are very welcomed to point it out to me.
 

@@ -5,8 +5,6 @@ image: "https://source.unsplash.com/-BcnpZHZJx4/1600x900"
 date: 2020-09-13
 ---
 
-##### *\* It's better to view this site on desktop, because with every inter-page you click on, you create a sequence of pages, in some ways, this sequence can be your own unique experience of reading my blog. ;)*
-
 I'm Adam, I'm on a [[Mission]](/blog/mission), and this is a representation of part of my mind. And I think through them, you can find all these scattered thoughts representing [[My Beliefs]](/blog/my-beliefs) one way or another.
 
 Traditionally, information is categorized into different parts & categories like:
