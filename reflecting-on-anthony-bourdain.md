@@ -36,6 +36,8 @@ No matter how famous/rich/respected/knowledgable you're, pretty much all of us a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R2oeadm1mWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{{< youtube R2oeadm1mWg >}}
+
 It's hard to just think about it, it'd be easier for you to treat it like thought experiments & mental exercises without emotions, especially when it comes to the topics about people's wellbeing, survival & lives. But having emotions is a fundamental trait of us, virtuous or evil, emotions drive us.
 
 If the delta COVID variant didn't come, I'd be on my way of making videos around the world now. I'm aware the journey is going to change me in some ways, maybe good, maybe bad, this is out of my control. Will I be able to handle it? It's also out of my control.
